@@ -1,7 +1,7 @@
 {
-  "mainAssemblyName": "SpaceMusic.UI.Browser.dll",
+  "mainAssemblyName": "SpaceMusic.Pro.Browser.dll",
   "resources": {
-    "hash": "sha256-xEnsfRKdAtiFMGv6EiIrgfdz+kUF+8QMDijajQ9wbVY=",
+    "hash": "sha256-bBplYUS3H7t1EP59N1ZDVyKFIcsNmyBL6nICFMaf1OM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-WI8Dzk6qtpVsE5/jF3tEvUNxDj5NvVwmkIrpDpwmwaU="
     },
@@ -20,25 +20,27 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-HfYzb3bsst8cE+/epSW9D7BLJeSLb2q4kKM/8IQs0N0=",
+      "Avalonia.Base.wasm": "sha256-q2MVdKNktCGuH2nVe0Mf/24OSR91dsMCLzpnI9pUA3s=",
       "Avalonia.Browser.wasm": "sha256-sLnKSrg4E5icgUe31xZN5mqQyrxkXPwoy4U9Mpzcw5c=",
-      "Avalonia.Controls.wasm": "sha256-3h0dYZeBIx4TKdBCAQCUgYqlvcH2cRLAsk9Aj7UZRFQ=",
+      "Avalonia.Controls.wasm": "sha256-aQ1QU9PxkLYAWktANVf5SLc7E+fRJORkSRexIyYrZcI=",
       "Avalonia.Dialogs.wasm": "sha256-EcwtxwCTxjscpNYBl1BkpWB6kFvZr7/3+lOWY0Y/Sqo=",
       "Avalonia.Fonts.Inter.wasm": "sha256-+HlLtTHt+7yGve/9KdgU9k5HUo4SBf+BYFyvu0I+f4Y=",
-      "Avalonia.Markup.wasm": "sha256-nLGbkZKqg/yOZElnyNJQjOP9pseMCwEkit9EUeAHTyw=",
-      "Avalonia.Markup.Xaml.wasm": "sha256-5JN4KuhzZLfas5r7zfcBzL2fpFMtU5yF1z0BXB7NVPc=",
+      "Avalonia.Markup.wasm": "sha256-Ss/GhiMkXgaDC2nZ7csXHpUu5J4HR2q+UT39tqeq1XQ=",
+      "Avalonia.Markup.Xaml.wasm": "sha256-Slz0iF8e/tPQ52TXpbuK7hR+IYlLoRr1iWDPMdYceAg=",
       "Avalonia.Metal.wasm": "sha256-1KL4mxV9iCuQxk0T3c2KqHTDDpoJMGoKRTgHPZWnY6E=",
       "Avalonia.OpenGL.wasm": "sha256-YSgTXu2G2Ysm7BPc5/fXAJ9IFO6FDhqnJx/iyY9xS0s=",
       "Avalonia.Skia.wasm": "sha256-0bvpGhUSZIjAMalKrEwLzvQEDXXAMko2x1hdaauN2eI=",
       "Avalonia.Svg.Skia.wasm": "sha256-9v3GB7qDor6SDoWoVipxMPwOc4gn6hIS/dU80gpED5c=",
       "Avalonia.Themes.Fluent.wasm": "sha256-CsE/GBDEtqoZhlKI1+B1zrlTX7MM2P44VF5COvsenNc=",
       "Avalonia.Vulkan.wasm": "sha256-y5O5fNwZDmglplSJVgYheNNZzd2e3WnBIdzda7C9mGM=",
+      "CommunityToolkit.Mvvm.wasm": "sha256-10d8TqdIGXcjne8x/p8kaA6fsouHfjTz55MPYQq/ChU=",
       "ExCSS.wasm": "sha256-faIuhMPmGGmxwI8WXm6pcsNrrGXa0Rva9tLqdAHIv08=",
-      "HarfBuzzSharp.wasm": "sha256-Br0nkaem9FicFcMssqzBryq1BZvpNyFhOgu5cltMVFs=",
+      "HarfBuzzSharp.wasm": "sha256-Bw748YJjboyzyHON7Fn43349O5/dnLugGAHedr7ZDuo=",
       "ShimSkiaSharp.wasm": "sha256-4YXTrPlWmMpxEmFWTBeTlNh/fmXNequ0h2FTIShopO4=",
-      "SkiaSharp.wasm": "sha256-6h/+HWlsViC7/qsQK2YAASKLuNqVhxTeIza1aoiflGU=",
-      "SpaceMusic.UI.Browser.wasm": "sha256-JQRD0DJoObtb038Y3UCwJTqW+OfgP4eHO3QY9NuI7QE=",
-      "SpaceMusic.UI.wasm": "sha256-bqG+L7m++X1tZq2NmKJNU2xTBBUxsEpYuj7pLhTvJg4=",
+      "SkiaSharp.wasm": "sha256-RpULlvuqpBvw1VEEs+JbEji6s8Nue6gwwBnyS44ld6w=",
+      "SpaceMusic.Pro.Browser.wasm": "sha256-IJ/mtqUtgYB9GU6jf22f1QQauRsHOaiJbkP0smQ+T9Y=",
+      "SpaceMusic.UI.Core.wasm": "sha256-WIdGmUcKxjH6myS/+hb48afk8sak0leeOgHK093eyXY=",
+      "SpaceMusic.UI.Pro.wasm": "sha256-5D49ghhs6u+GMQj7lUMk53y6P5dh8LPXaiVmBO1LtN0=",
       "Svg.Custom.wasm": "sha256-/f1vy5/KO7kSo9o/f0bWsYB3dbfX6yuuY3+NvNofff4=",
       "Svg.Model.wasm": "sha256-o+Zg++PzwpkwayCwj147i7Cz/OvNd/l5UJKH0x04Xcg=",
       "Svg.Skia.wasm": "sha256-kA377qJKUXx+EsX5RqNBwDYaSwbvJTt9r4FjIhSkPH8=",
@@ -61,7 +63,7 @@
       "System.Net.Http.wasm": "sha256-zcw9okFHT6jsobpDaJR9lNk16ZAC+Gih1JXufznTahU=",
       "System.Net.Primitives.wasm": "sha256-0K7PbD6yecM7LlBKFAEDNGy2q40gWwHFPmbrxDB8Os4=",
       "System.Net.Requests.wasm": "sha256-3+75NV7E1jQ2ZLR/gsUC2zUywnEJacgGk63pdu8E+hU=",
-      "System.ObjectModel.wasm": "sha256-tL4MG3bc5HyQ6/sE84/cdldCWEsABgrDEl+Up3ilO1Q=",
+      "System.ObjectModel.wasm": "sha256-PZtjPZdRfLh/wB6dbvnCcxdPCeq7G0dv8f+fZntiTKY=",
       "System.Private.CoreLib.wasm": "sha256-j8M82vG3F1RWkzxxAcHyzMVai6O/WQoYQ8t7ZLfQNGI=",
       "System.Private.Uri.wasm": "sha256-fbfpNRHYiLKauWWLPys05T2lJx6wCO7oO9p9j4yF70s=",
       "System.Private.Xml.wasm": "sha256-8/sTdlnqVJavUVJZs1Wz/6TCao+zvkHNrywmUc8aEEo=",
@@ -70,7 +72,7 @@
     },
     "vfs": {
       "runtimeconfig.bin": {
-        "supportFiles/0_runtimeconfig.bin": "sha256-bZVADVE9/vuk4VK9UcMd3AREONFSoWULYacsy5DHL3I="
+        "supportFiles/0_runtimeconfig.bin": "sha256-Ep2bNYpokmdTMjuXgRlrBwSn6n9DalXyTdctXCGQvWI="
       }
     }
   },
