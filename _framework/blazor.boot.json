@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SpaceMusic.Pro.Browser.dll",
   "resources": {
-    "hash": "sha256-Yx3qFB+09RGMDlaW3LtKVgvCwSAZ1n8wecIzVO16I8k=",
+    "hash": "sha256-qyN3evvN+EC1o8KWl5eovHuOvlgpY6rCIXjzXHWOHPs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-WI8Dzk6qtpVsE5/jF3tEvUNxDj5NvVwmkIrpDpwmwaU="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-ZDVyGEZEz4QOmKAwlgqf4qB6Psobwb9hIqMw9YpIo4I="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-P+PFs6KeRsAp2Wt9vwEg0iLQnxalJendbNukqYy62Q8="
+      "dotnet.native.wasm": "sha256-ZVlXF5ku3ZckbvO9AsPuDF8Kew+aJRHbTK6HUMLDtDs="
     },
     "wasmSymbols": {
       "dotnet.native.js.symbols": "sha256-8KEL2/qA3xLXasscVsrp8Zh05CjlK+YLxpYK4gYSTlM="
@@ -20,9 +20,9 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-JjAgqzCLhWBSW7wR0Msot0Nsg7HGBYyldOdqz5CMprw=",
+      "Avalonia.Base.wasm": "sha256-2DvbbRnZ9Vt3ddEf7CERHXzppYQIf2FoCea+MyCZmKY=",
       "Avalonia.Browser.wasm": "sha256-sLnKSrg4E5icgUe31xZN5mqQyrxkXPwoy4U9Mpzcw5c=",
-      "Avalonia.Controls.wasm": "sha256-mFfOaCjPeUXUX1NXhCG1x0ew0isJKpVH/+sk1E1xmMk=",
+      "Avalonia.Controls.wasm": "sha256-L9/93u3WVVsbLoMV5k8OP3dhaSNNDQGju5Lxz0HmB1Y=",
       "Avalonia.Dialogs.wasm": "sha256-EcwtxwCTxjscpNYBl1BkpWB6kFvZr7/3+lOWY0Y/Sqo=",
       "Avalonia.Fonts.Inter.wasm": "sha256-+HlLtTHt+7yGve/9KdgU9k5HUo4SBf+BYFyvu0I+f4Y=",
       "Avalonia.Markup.wasm": "sha256-gcGvnPz9hKjgsxFcamv12lQsqBERtNBILA3zrW+qb3M=",
@@ -39,9 +39,9 @@
       "LucideAvalonia.wasm": "sha256-Ddp0yG2o+wluze+EpgpNW64xP1lOHC4BeKf659AALxQ=",
       "ShimSkiaSharp.wasm": "sha256-4YXTrPlWmMpxEmFWTBeTlNh/fmXNequ0h2FTIShopO4=",
       "SkiaSharp.wasm": "sha256-RpULlvuqpBvw1VEEs+JbEji6s8Nue6gwwBnyS44ld6w=",
-      "SpaceMusic.Pro.Browser.wasm": "sha256-xwm7KEoNh0ghRYi0jyusx+i607E6g3GTusS1zRIc2ho=",
-      "SpaceMusic.UI.Core.wasm": "sha256-9U2yHLa9HKTpBsZk4+m2AH8//JsDNohgh3zACm51tIg=",
-      "SpaceMusic.UI.Pro.wasm": "sha256-PFXFGauwYCCr4z6eD1GBD+MHsSp5dzOUrEk+atG0GEE=",
+      "SpaceMusic.Pro.Browser.wasm": "sha256-gCVRMpFS8QA3qJUwREqSsGE7D0Z+OiSLyVllSuFzO8Q=",
+      "SpaceMusic.UI.Core.wasm": "sha256-tYJMYGYIAkoVjQV66eiK9M/X+jz5bJufn7SpcOoNCGo=",
+      "SpaceMusic.UI.Pro.wasm": "sha256-3w/ACIfBDKlszxilz1iIvSmcnFEZm9HbtlC1b+T+OKc=",
       "Svg.Custom.wasm": "sha256-idOl8UjfJ9/rlNs+zYTd9TaugTXVNUeF6WQF2Cll0R0=",
       "Svg.Model.wasm": "sha256-o+Zg++PzwpkwayCwj147i7Cz/OvNd/l5UJKH0x04Xcg=",
       "Svg.Skia.wasm": "sha256-kA377qJKUXx+EsX5RqNBwDYaSwbvJTt9r4FjIhSkPH8=",
@@ -65,7 +65,7 @@
       "System.Net.Primitives.wasm": "sha256-0K7PbD6yecM7LlBKFAEDNGy2q40gWwHFPmbrxDB8Os4=",
       "System.Net.Requests.wasm": "sha256-3+75NV7E1jQ2ZLR/gsUC2zUywnEJacgGk63pdu8E+hU=",
       "System.ObjectModel.wasm": "sha256-PZtjPZdRfLh/wB6dbvnCcxdPCeq7G0dv8f+fZntiTKY=",
-      "System.Private.CoreLib.wasm": "sha256-hamYaMe29MRR2nntmLLhjBLv3MJg9gZCFyLhGrpwPw8=",
+      "System.Private.CoreLib.wasm": "sha256-B9CnxltxNbeo0ZvUi5jjnPcfOmqy20k13lOI47lwM60=",
       "System.Private.Uri.wasm": "sha256-fbfpNRHYiLKauWWLPys05T2lJx6wCO7oO9p9j4yF70s=",
       "System.Private.Xml.wasm": "sha256-8/sTdlnqVJavUVJZs1Wz/6TCao+zvkHNrywmUc8aEEo=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-1UEqPlZ60gDZk8XYUCG1V35mKWnYwH3qdbspfWNH9QY=",
