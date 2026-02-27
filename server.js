@@ -3,7 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { extname, join } from 'node:path';
 import { existsSync } from 'node:fs';
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8000;
 const ROOT = process.cwd();
 
 const MIME_TYPES = {
