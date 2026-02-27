@@ -1,1 +1,7 @@
-{ "type":"module" }
+{
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve . -l 3000"
+  }
+}
