@@ -2,9 +2,6 @@
   "type": "module",
   "scripts": {
     "build": "echo 'Static site - no build needed'",
-    "start": "serve . -l 3000"
-  },
-  "dependencies": {
-    "serve": "^14.2.0"
+    "start": "node server.js"
   }
 }
